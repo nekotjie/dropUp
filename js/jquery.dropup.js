@@ -19,7 +19,6 @@
             }
 
              $(this).on('click', function() {
-                 console.log('click ', $(this).find('ul'));
                  $(this).find('ul').toggle();
 
                  var drop = $(this);

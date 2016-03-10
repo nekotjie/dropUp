@@ -1,8 +1,14 @@
 .dropUp {
     border: 1px solid #333;
+    position:relative;
 }
 .dropUp ul {
     display:none;
+    position:absolute;
+    z-index: 200;
+    width: 100%;
+    border: 1px solid #f1f1f1;
+    background-color: #f1f1f1;
     padding-left: 0px;
     margin: 0;
 }
