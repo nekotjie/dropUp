@@ -1,0 +1,23 @@
+.dropUp {
+    border: 1px solid #333;
+}
+.dropUp ul {
+    display:none;
+    padding-left: 0px;
+    margin: 0;
+}
+.dropUp>div {
+    position:relative;
+    padding: 10px;
+}
+.dropUp>ul>li {
+    list-style-type: none;
+    border-top: 1px solid #333;
+    padding: 10px;
+}
+.dropUp>div>img {
+    position: absolute;
+    top: 50%;
+    right:5px;
+    transform: translateY(-50%);
+}
