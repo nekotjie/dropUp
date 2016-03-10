@@ -22,6 +22,5 @@
         $('.dropUp').dropUp({
           text: 'Custom dropdown text', 
           arrow: 'img/arrow2.gif'
-          
         });
     </script>
