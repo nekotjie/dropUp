@@ -1,4 +1,4 @@
-# dropUp
+# DropUp
 
     <div class="dropUp">
         <div>
@@ -24,3 +24,9 @@
           arrow: 'img/arrow2.gif'
         });
     </script>
+    
+# Next up
+
+- Handle forms elegantly
+- Validation
+- Themes
